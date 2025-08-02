@@ -1,0 +1,10 @@
+import numpy as np
+a = list(map(int , input("Enter 3 numbers for array a , space seperated:").split()))
+b = list(map(int , input("Enter 3 numbers for array b , space seperated:").split()))
+a = np.array(a)
+b = np.array(b)
+v = np.vstack((a, b))
+print("Vertival Stack of a and b:\n", np.vstack((a, b)))
+print("Horizontal Stack of a and b:\n", np.hstack((a, b)))
+print("Element 5 access :", v[1,1])
+print('Element 5 access :', v[1][1])
