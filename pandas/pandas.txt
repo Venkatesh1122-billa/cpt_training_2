@@ -1,0 +1,13 @@
+import pandas as pandas
+Series (1-D Array)
+dataFrames (2-d array) / laelig wii be o rows and column
+
+OPERATIONS:
+
+reading / writing of data (csv / json / xls)
+inserting of data
+selecting of data
+data manipulation
+groupig and aggregation
+merging / joining
+sorting 
