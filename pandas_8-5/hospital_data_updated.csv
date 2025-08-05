@@ -1,0 +1,7 @@
+,Patient_Id,Name,Age,Department,Admission_Date,Bill,Status
+0,P001,Luffy,22.0,Cancer,2025-01-5,100000.0,Adult
+1,P002,Jin,26.0,Neurology,20525-04-6,200000.0,Adult
+2,P003,leon,29.0,Cardiology,2025-02-12,300000.0,Adult
+3,P004,Itachi,30.0,Cardiology,2025-05-6,500000.0,Adult
+4,P005,Ichigo,25.0,Cancer,2025-06-16,400000.0,Adult
+5,P006,Zoro,18.0,Neurology,2025-07-31,600000.0,Adult
