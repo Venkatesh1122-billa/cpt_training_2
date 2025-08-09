@@ -1,0 +1,40 @@
+ML ->
+SUPEWRVISED
+linear regression - line representation for i/o
+multiple linear regression - multiple inputs
+polynomial - polinomial terms for non-linear relation
+ridge/lasso regresiion 
+logistic regression  
+
+
+
+from sklearn.linear_model import LinearRegression, Ridge, Lasso, LogisticRegression
+
+models - linear/ridge/lasso/logistic...
+sklearn.linear_model
+LinearRegression - 
+parameter calling -> fit_intercept = True
+normalization
+n_job-threads
+positive = False
+
+
+treaining model:
+model.fit()
+shape(samples, features, examples)
+coefficient 
+
+
+model.predict()
+
+polynomial features - 
+
+1 - doubles
+reshape - 
+
+
+
+** PICKLE MODULE **
+
+
+
